@@ -5,8 +5,8 @@
 | Methods            |      |
 | ------------------ | ---- |
 | Monte Carlo Method | ✔️    |
-| Sarsa              |      |
-| Q-Learning         |      |
+| Sarsa              | ✔️    |
+| Q-Learning         | ✔️    |
 | DQN                |      |
 | A3C                |      |
 | D4PG               |      |

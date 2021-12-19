@@ -7,7 +7,7 @@
 | Monte Carlo Method | ✔️    |
 | Sarsa              | ✔️    |
 | Q-Learning         | ✔️    |
-| DQN                |      |
+| DQN                | ✔️    |
 | A3C                |      |
 | D4PG               |      |
 | PPO                |      |
